@@ -11,4 +11,9 @@
 =======
 8.......
 >>>>>>> featurel
+<<<<<<< Updated upstream
 aaaaaabbbbvvvvvvvvv
+=======
+aaaaaaaaaavvvvvvvvv
+wtwecxb
+>>>>>>> Stashed changes
